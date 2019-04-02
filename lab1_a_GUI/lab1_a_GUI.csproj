@@ -109,7 +109,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dll1\Dll1.vcxproj">
+    <ProjectReference Include="..\lab1_a_dll\Dll1.vcxproj">
       <Project>{23fad929-9226-4ff9-a9f7-f34f9bc2198d}</Project>
       <Name>Dll1</Name>
     </ProjectReference>
