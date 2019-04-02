@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ContainerClass.cpp">
+    <ClCompile Include="Adjlist_Graph.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="WordGraphClass.cpp">
+    <ClCompile Include="Core.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Wordlist.cpp">
+    <ClCompile Include="in_out.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="test.cpp">
@@ -29,13 +29,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ContainerClass.h">
+    <ClInclude Include="Adjlist_Graph.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="WordGraphClass.h">
+    <ClInclude Include="Core.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Wordlist.h">
+    <ClInclude Include="in_out.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

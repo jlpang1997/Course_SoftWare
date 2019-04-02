@@ -12,7 +12,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab1_a_dll", "Dll1\Dll1.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab1_b", "test\test.vcxproj", "{9E7ED730-BCAE-4428-ACF6-47DB71306262}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab1_c", "..\lab1_c\lab1_c\lab1_c.vcxproj", "{4A8CA9D2-43C2-499D-BF4A-C6222511D413}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab1_c", "lab1_c\lab1_c\lab1_c.vcxproj", "{4A8CA9D2-43C2-499D-BF4A-C6222511D413}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
